@@ -1,2 +1,13 @@
 # Hello-World
-My first ever GIT-HUB project.
+
+```JAVA
+
+public class Main {
+
+    
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+    
+}
+```
